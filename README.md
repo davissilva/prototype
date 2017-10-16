@@ -3,3 +3,4 @@ Protótipo criado como critério parcial para aprovação na disciplina de **Tra
 
 O projeto consiste em um controle de almoxarifado, registrado saídas e entradas de materiais, além da quantidade de itens no estoque e será destinado à pequenas empresas do setor de tecnologia.
 
+
